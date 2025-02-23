@@ -1,0 +1,21 @@
+:root {
+    --md-primary-fg-color: #7ef1e2;
+    --md-accent-fg-color: hwb(186 29% 27%);
+    --md-typeset-a-color: #ff4081;
+  }
+  
+  body {
+    background: linear-gradient(135deg, #1f1c2c, #928dab);
+    color: #e0e0e0;
+    font-family: 'Roboto Mono', monospace;
+  }
+  
+  a:hover {
+    color: #42969f;
+    text-shadow: 0 0 10px #10d1e6;
+  }
+  
+  h1, h2, h3 {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+  }
+  
