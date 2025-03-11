@@ -8,14 +8,14 @@
 </p>
 
 <hr/>
-🌟 Awesome LLM Apps
+🌟 AgentVerse 
 
 A curated collection of awesome LLM apps built with RAG and AI agents. This repository features LLM apps that use models from OpenAI, Anthropic, Google, and open-source models like DeepSeek, Qwen or Llama that you can run locally on your computer.
 
 
 </p>
 
-## 🤔 Why Awesome LLM Apps?
+## 🤔 Why AgentVerse?
 
 - 💡 Discover practical and creative ways LLMs can be applied across different domains, from code repositories to email inboxes and more.
 - 🔥 Explore apps that combine LLMs from OpenAI, Anthropic, Gemini, and open-source alternatives with RAG and AI Agents.
