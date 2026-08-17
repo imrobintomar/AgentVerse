@@ -92,6 +92,10 @@ A curated collection of awesome LLM apps built with RAG and AI agents. This repo
 - [🔍 Web Search AI Assistant](https://github.com/imrobintomar/AgentVerse/tree/main/advanced_tools_frameworks/web_search_ai_assistant)
 - [🧪 Cursor AI Experiments](https://github.com/imrobintomar/AgentVerse/tree/main/advanced_tools_frameworks/cursor_ai_experiments)
 
+  ### 🚀 Startup & Founder Tools
+
+- [💡 IdeaHunter](https://ideahunter.today) — AI-powered startup idea validation using demand signals, buyer pain, market evidence, MVP scope, and monetisation paths.
+
 ## 🚀 Getting Started
 
 1. **Clone the repository** 
